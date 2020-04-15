@@ -114,7 +114,4 @@
 		（6）前端之巅：InfoQ 旗下关注大前端的技术社群；
 		（7）龙书：《编译原理》；
 		
-		
-		
-
-		
+脑图：http://naotu.baidu.com/file/4a0a2fb8704bd4fbc29bea34f2a54b5a?token=e0fdd8a2eb003354		
